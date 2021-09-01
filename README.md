@@ -2,7 +2,7 @@
 
 The repository contains code refered to the work:
 
-_Giuseppina Andresini, Annalisa Appice, Francesco Paolo Caforio,  Donato Malerba_
+_Francesco Paolo Caforio, Giuseppina Andresini, Annalisa Appice, Gennaro Vessio, and Donato Malerba_
 
 [Leveraging Grad-CAM to Improve the Accuracy of Network Intrusion Detection Systems](#) 
 
