@@ -1,10 +1,10 @@
-# THreat dEtection by moving bOunDaries around nORmal sAmple (THEODORA)
+# GRad-CAM enhAnced Convolution neural nEtwork (GRACE)
 
 The repository contains code refered to the work:
 
 _Giuseppina Andresini, Annalisa Appice, Francesco Paolo Caforio,  Donato Malerba_
 
-[Improving Cyber-Threat Detection by Moving the Boundary around the Normal Samples](https://link.springer.com/chapter/10.1007%2F978-3-030-57024-8_5) 
+[Leveraging Grad-CAM to Improve the Accuracy of Network Intrusion Detection Systems](#) 
 
 Please cite our work if you find it useful for your research and work.
 ```
