@@ -25,5 +25,5 @@ Packages need are:
 * [Numpy 1.15.4](https://www.numpy.org/)
 * [Matplotlib 2.2](https://matplotlib.org/)
 
-## Data
-The datasets used for experiments are accessible from [__DATASETS__](https://drive.google.com/drive/folders/1CacXYvmK5iHJ94rH-ZbDw0tnsuUF0d7X)
+## Data & models
+The datasets used for experiments and the deep learning models computed in the experiments described in Caforio et al. (2021) are accessible from [__DATASETS__](https://drive.google.com/drive/folders/1CacXYvmK5iHJ94rH-ZbDw0tnsuUF0d7X)
