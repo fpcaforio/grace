@@ -6,6 +6,8 @@ _Francesco Paolo Caforio, Giuseppina Andresini, Annalisa Appice, Gennaro Vessio,
 
 [Leveraging Grad-CAM to Improve the Accuracy of Network Intrusion Detection Systems](#) 
 
+Discovery Science – 24th International Conference, DS 2021,  Proceedings. [Lecture Notes in Computer Science](https://dblp.org/db/series/lncs/index.html) (to appear, 2021)
+
 Please cite our work if you find it useful for your research and work.
 ```
 Updating
