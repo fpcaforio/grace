@@ -30,6 +30,6 @@ The datasets used for experiments and the deep learning models computed in the e
 
 ## How to use
 Repository contains scripts of all experiments included in the paper:
-```
-Updating
-```
+* __GRACE.ipynb__ : script to run GRACE
+* __Grad_CAM.ipynb__ : script to run GRAD-CAM (construction of the heatmap dataset) 
+* __CNN+Grad_CAM+NN.ipynb__ : script to run CNN+Grad_CAM+NN 
