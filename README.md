@@ -25,11 +25,11 @@ Packages need are:
 * [Numpy 1.15.4](https://www.numpy.org/)
 * [Matplotlib 2.2](https://matplotlib.org/)
 
-## Data & models
-The datasets used for experiments and the deep learning models computed in the experiments described in Caforio et al. (2021) are accessible from [__DATASETS__](https://drive.google.com/drive/folders/1CacXYvmK5iHJ94rH-ZbDw0tnsuUF0d7X)
-
 ## How to use
 Repository contains scripts of all experiments included in the paper:
 * __GRACE.ipynb__ : script to run GRACE
 * __Grad_CAM.ipynb__ : script to run GRAD-CAM (construction of the heatmap dataset) 
 * __CNN+Grad_CAM+NN.ipynb__ : script to run configuration CNN+Grad_CAM+NN 
+
+## Data & models
+The datasets used for experiments and the deep learning models computed in the experiments described in Caforio et al. (2021) are accessible from [__DATASETS__](https://drive.google.com/drive/folders/1CacXYvmK5iHJ94rH-ZbDw0tnsuUF0d7X)
